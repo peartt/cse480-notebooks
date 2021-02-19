@@ -6,7 +6,10 @@
       "name": "07_2_Calculator_with_Parse_Tree_Drawing.ipynb",
       "provenance": [],
       "collapsed_sections": [],
+<<<<<<< HEAD
+=======
       "authorship_tag": "ABX9TyN/vARPACqRLk+xYn7/pwp+",
+>>>>>>> 86741b9ea220262edc1fecdc1f285adb49599e93
       "include_colab_link": true
     },
     "kernelspec": {
@@ -483,8 +486,12 @@
         "id": "rdAZeAOsXD2_"
       },
       "source": [
-        "How does the above calculator parse ```~2^2```?"
+<<<<<<< HEAD
+        "How does the above calculator above parse ```~2^2```?\r\n",
         "It generates a parse tree that results in $(-2)^2 = 4$"
+=======
+        "How does the above calculator parse ```~2^2```?"
+>>>>>>> 86741b9ea220262edc1fecdc1f285adb49599e93
       ]
     },
     {
